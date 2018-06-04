@@ -16,7 +16,7 @@ export default class extends React.Component {
                     
                     }>
                     <i> 
-                        Hello 2 
+                        Hello 
                     </i>
                 </h2>
                 <p> {this.state.counter} </p>
